@@ -1,0 +1,86 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: VC≤‚ ‘ - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\14432\AppData\Local\Temp\RSPC6AB.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /FR"Debug/" /Fp"Debug/VC≤‚ ‘.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp"
+]
+Creating command line "cl.exe @C:\Users\14432\AppData\Local\Temp\RSPC6AB.tmp" 
+Creating temporary file "C:\Users\14432\AppData\Local\Temp\RSPC6AC.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/VC≤‚ ‘.pdb" /debug /machine:I386 /out:"Debug/VC≤‚ ‘.exe" /pdbtype:sept 
+".\Debug\≤‚ ‘.obj"
+]
+Creating command line "link.exe @C:\Users\14432\AppData\Local\Temp\RSPC6AC.tmp"
+<h3>Output Window</h3>
+Compiling...
+≤‚ ‘.cpp
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(86) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(86) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(87) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(87) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(88) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(88) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(89) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(89) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(105) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(105) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(106) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(106) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(111) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(111) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(112) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(112) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(113) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(113) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(114) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(114) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(135) : warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(146) : warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(157) : warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(192) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(192) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(193) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(193) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(194) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(194) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(195) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(195) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(239) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(239) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(240) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(240) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(241) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(241) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(242) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(242) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(267) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(267) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(268) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(268) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(269) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(269) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(270) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(270) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(628) : warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(629) : warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(665) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\14432\Desktop\VC≤‚ ‘\≤‚ ‘.cpp(666) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/VC≤‚ ‘.bsc"  ".\Debug\≤‚ ‘.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+VC≤‚ ‘.exe - 0 error(s), 51 warning(s)
+</pre>
+</body>
+</html>
