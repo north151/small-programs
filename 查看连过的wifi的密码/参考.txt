@@ -1,0 +1,12 @@
+
+注意: 只能查看已经连接过的wifi的密码
+
+依靠的是Windows命令:
+
+展示网卡上已连接过的wifi:
+netsh wlan show profile
+
+查看指定wifi详细信息:
+netsh wlan show profile name="wifi名称" key=clear
+
+关键内容这一属性即为wifi密码
